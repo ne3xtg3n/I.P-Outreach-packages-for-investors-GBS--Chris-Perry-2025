@@ -1,6 +1,8 @@
 # I.P-Outreach-packages-for-investors-GBS--Chris-Perry-2025
 ### Investor Pitch: Global BuildPro V4 - Revolutionizing Construction Education
 
+![1000015517](https://github.com/user-attachments/assets/7da2d35a-8083-4064-88ef-5ec6d89c68c0)
+
 **Date and Time: 06:34 PM EDT, Monday, October 06, 2025**
 
 Welcome, esteemed investors, to the pitch for **Global BuildPro V4**, a groundbreaking platform designed to transform construction education and certification. Developed by me, Christopher Perry, this app combines innovative technology with industry expertise to empower builders, contractors, and teams worldwide. Below is a detailed investor pitch, crafted to protect my intellectual property (IP) while showcasing the potential of this venture. All sensitive details are abstracted or generalized to avoid IP violation, and stunning visuals are strategically placed to wow you. The repository is structured like a GitHub project for clarity and accessibility.
